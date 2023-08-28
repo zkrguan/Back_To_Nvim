@@ -4,3 +4,7 @@ Honestly, those motion key combos makes you feel like playing street fighters wh
 Bad part is I am so used to press ESC while finish editing something. While writing some descriptions on PR, while editing a sent message on discord, GG!
 
 # The Vim I know was like this. 
+![image](https://github.com/zkrguan/Back_To_Nvim/assets/97544709/26518c87-0fee-48ec-b204-a7be3d868fbd)
+
+# NVim after I customized.
+
