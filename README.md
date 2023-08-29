@@ -29,12 +29,11 @@ If you don't have a .config repo inside your home.
 7. nvim inside your working repo
 
 8. space + sf and this is like a magic
+
+```
+Looks better than you thought right? Pretty fun to use with. 
 ![image](https://github.com/zkrguan/Back_To_Nvim/assets/97544709/af557a14-f248-4075-b1d3-9de45f68b34c)
 ![image](https://github.com/zkrguan/Back_To_Nvim/assets/97544709/69cac8b0-4bef-49a6-a752-c0f4a692c86a)
-
-Looks better than you thought right? Pretty fun to use with. 
-```
-
 # NVim after I customized.
 Still Trying out. You will find my most current vim.init file in this repo. 
 
