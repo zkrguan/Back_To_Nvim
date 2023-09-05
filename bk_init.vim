@@ -6,7 +6,7 @@ set hlsearch                " highlight search results
 set autoindent              " indent a new line the same amount as the line just typed
 set number                  " add line numbers
 set wildmode=longest,list   " get bash-like tab completions
-set cc=88                   " set colour columns for good coding style
+set cc=0                   " set colour columns for good coding style
 filetype plugin indent on   " allows auto-indenting depending on file type
 set tabstop=4               " number of columns occupied by a tab character
 set expandtab               " convert tabs to white space
@@ -20,7 +20,11 @@ call plug#begin()
 
 " 
 Plug 'tpope/vim-sensible'
-
 " Color scheme
 Plug 'arcticicestudio/nord-vim'
+
+" FileTree Nvim Tree
+Plug 'nvim-tree/nvim-web-devicons' " optional
+Plug 'nvim-tree/nvim-tree.lua'
 call plug#end()
+
